@@ -1,0 +1,3 @@
+# Ignore specific large data file
+vaccination_tweets.csv
+twitter_tweets.csv
