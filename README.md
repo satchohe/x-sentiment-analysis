@@ -34,7 +34,7 @@ Prerequisites
 
 To run this project successfully, you'll need the following Python libraries. You can install them using pip:
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   pip install pandas matplotlib seaborn scikit-learn nltk textblob wordcloud   `
+`   pip install pandas matplotlib seaborn scikit-learn nltk textblob wordcloud   `
 
 Additionally, you'll need to download the NLTK stopwords and punkt tokenizer. You can do this by running the following commands in a Python interpreter or script:
 
