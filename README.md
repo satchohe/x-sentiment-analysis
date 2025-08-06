@@ -38,7 +38,7 @@ To run this project successfully, you'll need the following Python libraries. Yo
 
 Additionally, you'll need to download the NLTK stopwords and punkt tokenizer. You can do this by running the following commands in a Python interpreter or script:
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   import nltk  nltk.download('stopwords')  nltk.download('punkt')   `
+`   import nltk  nltk.download('stopwords')  nltk.download('punkt')   `
 
 Project Structure
 -----------------
